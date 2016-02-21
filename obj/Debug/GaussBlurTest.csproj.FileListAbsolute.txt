@@ -1,0 +1,9 @@
+c:\users\kitkom\documents\visual studio 2015\Projects\GaussBlurTest\GaussBlurTest\bin\Debug\GaussBlurTest.exe.config
+c:\users\kitkom\documents\visual studio 2015\Projects\GaussBlurTest\GaussBlurTest\bin\Debug\GaussBlurTest.exe
+c:\users\kitkom\documents\visual studio 2015\Projects\GaussBlurTest\GaussBlurTest\bin\Debug\GaussBlurTest.pdb
+c:\users\kitkom\documents\visual studio 2015\Projects\GaussBlurTest\GaussBlurTest\obj\Debug\GaussBlurTest.csprojResolveAssemblyReference.cache
+c:\users\kitkom\documents\visual studio 2015\Projects\GaussBlurTest\GaussBlurTest\obj\Debug\GaussBlurTest.Form1.resources
+c:\users\kitkom\documents\visual studio 2015\Projects\GaussBlurTest\GaussBlurTest\obj\Debug\GaussBlurTest.Properties.Resources.resources
+c:\users\kitkom\documents\visual studio 2015\Projects\GaussBlurTest\GaussBlurTest\obj\Debug\GaussBlurTest.csproj.GenerateResource.Cache
+c:\users\kitkom\documents\visual studio 2015\Projects\GaussBlurTest\GaussBlurTest\obj\Debug\GaussBlurTest.exe
+c:\users\kitkom\documents\visual studio 2015\Projects\GaussBlurTest\GaussBlurTest\obj\Debug\GaussBlurTest.pdb
